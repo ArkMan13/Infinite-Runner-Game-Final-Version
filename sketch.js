@@ -182,6 +182,7 @@ function reset(){
   obstacleGroup.destroyEach();
   emeraldGroup.destroyEach();
   diamondGroup.destroyEach();
+  arrowGroup.destroyEach();
   
   score = 0;
   survivalTime = 0;
